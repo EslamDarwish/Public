@@ -1,3 +1,9 @@
 {
-  "VERSION":"0.9"
+  "VERSION":"0.9",
+  "LAST_SURVEY_DATE":"20/12/2019",
+  "QUESTIONS":[
+  "First question?",
+  "Second question?",
+  "Third question?"
+  ]
 }
